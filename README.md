@@ -7,5 +7,7 @@ This is React-Tutorial project
 ## Scripts
 
 `npm run start` - start the project local
+
 `npm run build` - create project build
+
 `npm run deploy` - deploy the build to github.io
