@@ -1,8 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
 This is React-Tutorial project
 
-[Live DEMO](https://tereshka.github.io/react-tutorial)
+[Live DEMO](https://tereshka.github.io/react-tutorial) is made from `on-hooks` branch
+
+## branches:
+master - took from original [tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+on-hooks - functional representation of this tutorial
 
 ## Scripts
 
