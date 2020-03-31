@@ -4,6 +4,7 @@ This is React-Tutorial project
 
 ## branches:
 master - took from original [tutorial](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+
 on-hooks - functional representation of this tutorial
 
 ## Scripts
